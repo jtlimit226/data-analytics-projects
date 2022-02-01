@@ -1,2 +1,2 @@
 # data analytics projects
- projects using data analytics
+This repository will contain the projects I have worked on relating to data analytics.
